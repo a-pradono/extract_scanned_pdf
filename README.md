@@ -53,7 +53,7 @@ I have tried to clean and edit the csv file data using copy to excel clipboard s
 Moreover, a geochemical log has been constructed and visualized from the Inigok-1 well. This figure below is useful for the geologist to identify the presence of source rock, quality, and maturity based on total organic carbon (TOC) and Rock-Eval pyrolysis data. The parameters most frequently reported are TOC, S1, S2, S3, and Tmax, together with a number of derived parameters like HI, OI, and PI. Here is the further explanation for [TOC](https://wiki.aapg.org/Source_rock_richness) and [Rock-Eval pyrolysis](https://wiki.aapg.org/Rock-Eval_pyrolysis) based on AAPG Wiki.
 
 <p align="center">
-  <img width="200" height="300" src="https://github.com/a-pradono/extract_scanned_pdf/blob/main/Images/plot05.jpg">
+  <img width="300" height="400" src="https://github.com/a-pradono/extract_scanned_pdf/blob/main/Images/plot05.jpg">
 </p>
 
 ## IV. Conclusions
