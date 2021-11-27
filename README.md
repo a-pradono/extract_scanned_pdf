@@ -63,4 +63,4 @@ The main objective of this project was to extract table data from scanned pdf us
   * It was unable to distinguish between cells containing row or column headers and data.
 
 ## Reference
-DGSI, Inc., 1999, Total organic carbon (TOC), rock-eval, vitrinite reflectance, and gas chromatography of the following well materials: Malguk #1, Ikpikpuk Test Well #1, Inigok T. W. #1, North Inigok T. W. #1, North Kalikpik T. W. #1, East Teshekpuk T. W. #1, W. T. Foran T. W. #1, and Fish Creek T. W. #1: Alaska Division of Geological & Geophysical Surveys Geologic Materials Center Data Report 286, 47 p.
+DGSI, Inc., 1999, Total organic carbon (TOC), rock-eval, vitrinite reflectance, and gas chromatography of the following well materials: Malguk #1, Ikpikpuk Test Well #1, Inigok T. W. #1, North Inigok T. W. #1, North Kalikpik T. W. #1, East Teshekpuk T. W. #1, W. T. Foran T. W. #1, and Fish Creek T. W. #1: Alaska Division of Geological & Geophysical Surveys Geologic Materials Center Data Report 286, 47 p. https://doi.org/10.14509/19134
